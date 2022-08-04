@@ -1,0 +1,6 @@
+@import "reset.css";
+
+div {
+    background-color: red;
+    color: #fff;
+}
